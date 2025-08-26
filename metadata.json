@@ -1,0 +1,5 @@
+{
+  "name": "UMKM Maju AI Dashboard",
+  "description": "A private dashboard for Small and Medium Enterprises (UMKM) requiring user authentication. Features include a product showcase, user management, and an AI-powered idea generator to inspire business growth. This is a frontend-only application that mocks backend interactions.",
+  "requestFramePermissions": []
+}
